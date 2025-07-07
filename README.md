@@ -32,11 +32,8 @@ The project is based on the **Cornell Movie-Dialogue Corpus**, consisting of:
    * Replacing base models with better architectures
    * Tuning hyperparameters
    * Experimenting with training/validation splits
-4. **Compare** the results with the original paper:
 
-   * Accuracy, F1 Score, Precision, Recall, Confusion Matrix
-   * Other relevant evaluation metrics
-5. **Write a final report** (to be submitted separately):
+4. **Write a final report** (to be submitted separately):
 
    * Explain all important keywords in your final code
    * List of changes made
