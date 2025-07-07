@@ -4,10 +4,7 @@
 
 This project focuses on understanding and enhancing human-chatbot interactions through advanced NLP-based architectures. Your primary objective is to develop, fine-tune, and deploy a conversational AI system using a pretrained model from Hugging Face.
 
-You will explore the influence of incremental dialogue data on chatbot behavior, using training techniques that ensure the model adapts meaningfully to newly introduced conversational styles.
----
-
-## Files Provided
+### Files Provided
 
 * **`echo_chamber_final.ipynb`**: The main notebook — includes a working and tested implementation. You can directly upload this to **Google Colab**.
 * **`dataset`**: Sample input data folder.
@@ -15,15 +12,15 @@ You will explore the influence of incremental dialogue data on chatbot behavior,
 
 >  *The current implementation works well. Your task is to push it further.*
 
----
 
 ### Dataset
 
-The project is based on the **Cornell Movie Dialogues Corpus**, consisting of:
+The project is based on the **Cornell Movie-Dialogue Corpus**, consisting of:
 - `movie_lines.txt`
 - `movie_conversations.txt`
-This dataset offers a rich and diverse set of dialogue pairs drawn from a variety of movie scripts, ideal for training and evaluating dialogue systems.
+>  *This dataset offers a rich and diverse set of dialogue pairs drawn from a variety of movie scripts, ideal for training and evaluating dialogue systems.*
 
+---
 
 ##  Your Final Objectives
 
