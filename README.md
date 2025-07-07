@@ -1,24 +1,29 @@
-﻿# Echo Chamber: Final Project Submission
-
-Welcome to the final phase of the **Echo Chamber** project — developed under **Season of Code** and mentored by \[Your Name]. This repository marks the culmination of the work done so far and provides you, the contributor, with a structured roadmap to carry this project further into deployment and research-driven refinement.
-
----
+﻿# Echo Chamber: Final Project
 
 ## Project Overview
 
-**Echo Chamber** explores the interplay of algorithmic recommendations and user bias in social media environments, with a focus on analyzing and enhancing content personalization models using NLP-based architectures.
+This project focuses on understanding and enhancing human-chatbot interactions through advanced NLP-based architectures. Your primary objective is to develop, fine-tune, and deploy a conversational AI system using a pretrained model from Hugging Face.
 
+You will explore the influence of incremental dialogue data on chatbot behavior, using training techniques that ensure the model adapts meaningfully to newly introduced conversational styles.
 ---
 
 ## Files Provided
 
 * **`echo_chamber_final.ipynb`**: The main notebook — includes a working and tested implementation. You can directly upload this to **Google Colab**.
-* **`data_folder`**: Sample input data folder.
-* **`research_paper.pdf`**: Baseline paper for comparative study and model understanding.
+* **`dataset`**: Sample input data folder.
+* **`research_paper`**: Baseline paper for comparative study and model understanding.
 
 >  *The current implementation works well. Your task is to push it further.*
 
 ---
+
+### Dataset
+
+The project is based on the **Cornell Movie Dialogues Corpus**, consisting of:
+- `movie_lines.txt`
+- `movie_conversations.txt`
+This dataset offers a rich and diverse set of dialogue pairs drawn from a variety of movie scripts, ideal for training and evaluating dialogue systems.
+
 
 ##  Your Final Objectives
 
@@ -60,3 +65,12 @@ Welcome to the final phase of the **Echo Chamber** project — developed under *
 * Push your changes via PRs and mention what you changed + why.
 
 ---
+## General Instructions
+* It is not compulsory to train the model on new dataset, tuning existing model is perfectly alright
+* You have been provided with **`echo_chamber_final.ipynb`** which already contain for data loading, sampling and tokenising
+* To get an idea about how to use the existing model directly, a snippet at the end of file is given to get an idea
+* We expect you to learn and implement your learnings, document your results, even bad too, those are the stepping stones that will come along the journey
+* If you guys ever feel stuck, reach any of us out :)
+
+---
+Happy Learning!!!
