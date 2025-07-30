@@ -3,6 +3,7 @@
 ## Project Overview
 
 This project focuses on understanding and enhancing human-chatbot interactions through advanced NLP-based architectures. Your primary objective is to develop, fine-tune, and deploy a conversational AI system using a pretrained model from Hugging Face.
+All the relevant resources used in the project are compiled in this link : [Google Doc link](https://docs.google.com/document/d/1xsafKt1_r8zz-7S5kEY9RjwKSpGYncJHaXV_ufqiIYU/edit?tab=t.0#heading=h.gv4xpnxb9z7x)
 
 ### Files Provided
 
